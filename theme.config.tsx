@@ -13,17 +13,7 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
     text: 'Nextra Docs Template',
-  },
-  head: (
-    <>
-      <iframe
-        src="https://www.chatbase.co/chatbot-iframe/uFcxHlGynfXDst0avJNSn"
-        width={"50px"}
-        height={"50px"}
-        style={{ top: 100, left: 500, position: 'fixed', border: 0, zIndex: 9999 }}
-      ></iframe>
-    </>
-  )
+  }
 }
 
 export default config
