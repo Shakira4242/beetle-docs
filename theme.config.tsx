@@ -19,7 +19,7 @@ const config: DocsThemeConfig = {
       <iframe
         src="https://www.chatbase.co/chatbot-iframe/uFcxHlGynfXDst0avJNSn"
         width="100%"
-        style={{"height": "50px", "width": "50px", "top": "500px", "right": "100px", "position": "fixed"}}
+        style={{"height: 50px, width: 50px, top: 500px, right: 100px, position: fixed, z-index: 1000;"}}
       ></iframe>
     </>
   )
